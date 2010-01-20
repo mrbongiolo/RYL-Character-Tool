@@ -1,6 +1,6 @@
 RYL Character Tool
 
-This is a little tool that I made to help me to easyli find out what "build" I would use for my char on the RYL (Risk Your Life) MMORPG.
+This is a little tool that I made to help me to easily find out what "build" I would use for my char on the RYL (Risk Your Life) MMORPG.
 
 
 What it does?
