@@ -8,7 +8,7 @@
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>RYL_TOOL</RootNamespace>
-    <AssemblyName>RYL TOOL 1.3</AssemblyName>
+    <AssemblyName>RYL TOOL 1.3 - RoW EU</AssemblyName>
     <ManifestCertificateThumbprint>8F680EEFC92A32D2E6F87D041100F470B4DC7595</ManifestCertificateThumbprint>
     <ManifestKeyFile>RYL TOOL 1.0_TemporaryKey.pfx</ManifestKeyFile>
     <GenerateManifests>true</GenerateManifests>
