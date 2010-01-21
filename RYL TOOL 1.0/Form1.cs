@@ -276,8 +276,6 @@ namespace RYL_TOOL
                     //LIFE
                     if (comboClasse.SelectedIndex == 0)
                     {
-                        this.Text = "RYL Tool - Life";
-
                         lvl = Int32.Parse(comboLvl.Text);
 
                         vetorRYL[0] = new Life(lvl);
@@ -299,7 +297,7 @@ namespace RYL_TOOL
                     //RUNE
                     else if (comboClasse.SelectedIndex == 1)
                     {
-                        this.Text = "RYL Tool - Rune";
+                        this.Text = "Rune";
                         
                         lvl = Int32.Parse(comboLvl.Text);
 
@@ -322,8 +320,6 @@ namespace RYL_TOOL
                     //SHADOW
                     else if (comboClasse.SelectedIndex == 2)
                     {
-                        this.Text = "RYL Tool - Shadow";
-
                         lvl = Int32.Parse(comboLvl.Text);
 
                         vetorRYL[0] = new Shadow(lvl);
@@ -344,9 +340,7 @@ namespace RYL_TOOL
                     }
                     //ATTACKER
                     else if (comboClasse.SelectedIndex == 3)
-                    {
-                        this.Text = "RYL Tool - Attacker";
-                        
+                    {                        
                         lvl = Int32.Parse(comboLvl.Text);
 
                         vetorRYL[0] = new Attacker(lvl);
@@ -368,8 +362,6 @@ namespace RYL_TOOL
                     //TEMPLAR
                     else if (comboClasse.SelectedIndex == 4)
                     {
-                        this.Text = "RYL Tool - Templar";
-                        
                         lvl = Int32.Parse(comboLvl.Text);
 
                         vetorRYL[0] = new Templar(lvl);
@@ -391,8 +383,6 @@ namespace RYL_TOOL
                     //GUNNER
                     else if (comboClasse.SelectedIndex == 5)
                     {
-                        this.Text = "RYL Tool - Gunner";
-                        
                         lvl = Int32.Parse(comboLvl.Text);
 
                         vetorRYL[0] = new Gunner(lvl);
@@ -423,8 +413,6 @@ namespace RYL_TOOL
                     //WARRIOR
                     if (comboClasse.SelectedIndex == 0)
                     {
-                        this.Text = "RYL Tool - Warrior";
-                        
                         lvl = Int32.Parse(comboLvl.Text);
 
                         vetorRYL[0] = new Warrior(lvl);
@@ -446,8 +434,6 @@ namespace RYL_TOOL
                     //DEFENDER
                     else if (comboClasse.SelectedIndex == 1)
                     {
-                        this.Text = "RYL Tool - Defender";
-                        
                         lvl = Int32.Parse(comboLvl.Text);
 
                         vetorRYL[0] = new Defender(lvl);
@@ -469,8 +455,6 @@ namespace RYL_TOOL
                     //CLERIC
                     else if (comboClasse.SelectedIndex == 2)
                     {
-                        this.Text = "RYL Tool - Cleric";
-                        
                         lvl = Int32.Parse(comboLvl.Text);
 
                         vetorRYL[0] = new Cleric(lvl);
@@ -492,8 +476,6 @@ namespace RYL_TOOL
                     //PRIEST
                     else if (comboClasse.SelectedIndex == 3)
                     {
-                        this.Text = "RYL Tool - Priest";
-                        
                         lvl = Int32.Parse(comboLvl.Text);
 
                         vetorRYL[0] = new Priest(lvl);
@@ -515,8 +497,6 @@ namespace RYL_TOOL
                     //ENCHANTER
                     else if (comboClasse.SelectedIndex == 4)
                     {
-                        this.Text = "RYL Tool - Enchanter";
-                        
                         lvl = Int32.Parse(comboLvl.Text);
 
                         vetorRYL[0] = new Enchanter(lvl);
@@ -538,8 +518,6 @@ namespace RYL_TOOL
                     //SORCERER
                     else if (comboClasse.SelectedIndex == 5)
                     {
-                        this.Text = "RYL Tool - Sorcerer";
-                        
                         lvl = Int32.Parse(comboLvl.Text);
 
                         vetorRYL[0] = new Sorcerer(lvl);
@@ -561,8 +539,6 @@ namespace RYL_TOOL
                     //ARCHER
                     else if (comboClasse.SelectedIndex == 6)
                     {
-                        this.Text = "RYL Tool - Archer";
-                        
                         lvl = Int32.Parse(comboLvl.Text);
 
                         vetorRYL[0] = new Archer(lvl);
@@ -584,8 +560,6 @@ namespace RYL_TOOL
                     //ASSASSIN
                     else if (comboClasse.SelectedIndex == 7)
                     {
-                        this.Text = "RYL Tool - Assassin";
-                        
                         lvl = Int32.Parse(comboLvl.Text);
 
                         vetorRYL[0] = new Assassin(lvl);

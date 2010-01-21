@@ -131,11 +131,5 @@ namespace RYL_TOOL
         {
 
         }
-
-        private void AboutBox_Load(object sender, EventArgs e)
-        {
-            linkLabel1.Links.Add(0, 19, "www.ostabajaras.com");
-
-        }
     }
 }

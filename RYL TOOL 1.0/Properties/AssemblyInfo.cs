@@ -6,12 +6,12 @@ using System.Resources;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("RYL Character Tool")]
-[assembly: AssemblyDescription("A little Tool where you can check the stats of your RYL - Risk Your Life - characters.")]
+[assembly: AssemblyTitle("RYL Character Tool - RoW EU version")]
+[assembly: AssemblyDescription("A little Tool where you can check the stats of your RYL - Risk Your Life - characters. Ruins of War version.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Tabajara Soft ®")]
-[assembly: AssemblyProduct("RYL Character Tool")]
-[assembly: AssemblyCopyright("Copyright ©  2008")]
+[assembly: AssemblyCompany("WHC ®")]
+[assembly: AssemblyProduct("RYL Character Tool - RoW EU version")]
+[assembly: AssemblyCopyright("Copyright ©  2008 - 2010")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
